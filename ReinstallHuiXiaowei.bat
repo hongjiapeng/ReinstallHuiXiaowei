@@ -39,7 +39,7 @@ if %errorlevel% equ 0 (
     echo The app has been successfully installed!
     
     echo Opening the app now...
-        start "" "hp-xiaowei:"
+        start "" "hp-xiaowei-win32:"
 ) else (
     echo Failed to install the app. Please check manually!
 )
